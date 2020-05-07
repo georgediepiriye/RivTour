@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RivTour</string>
+
+    <string name="hospital">HOSPITALS</string>
+    <string name="hotel">HOTELS</string>
+    <string name="random">RANDOM</string>
+    <string name="eatery">EATERY</string>
+    <string name="explore">Explore</string>
+    <string name="rivtour">RivTour</string>
+    <string name="hotel_presidential">Hotel Presidential</string>
+
+</resources>
